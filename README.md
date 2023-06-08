@@ -1,6 +1,6 @@
 ### Hi I'm Liboq 👋
 
-![Liboq's GitHub stats](https://github-readme-stats.vercel.app/api?username=Liboq)
+![Liboq's GitHub stats](https://github-readme-stats-theta-seven-15.vercel.app/api?username=Liboq&show_icons=true)
 <!--
 **Liboq/Liboq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
